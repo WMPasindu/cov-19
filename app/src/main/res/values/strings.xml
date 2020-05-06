@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cov-19</string>
+    <string name="current_outbreak">Current Outbreak</string>
+    <string name="country_name">Sri Lanka</string>
+    <string name="global">Global</string>
+    <string name="date">Sat, 2 May</string>
+    <string name="txt_latest_update">Latest Update</string>
+    <string name="txt_local_confirmed_cases">Confirmed Cases : 690</string>
+    <string name="admob_app_id">ca-app-pub-5587563964494758~7282431053</string>
+<!--    <string name="admob_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="admob_unit_id">ca-app-pub-5587563964494758/7937037171</string>
+
+    <string-array name="country_arrays">
+        <item>Sri Lanka</item>
+        <item>Global</item>
+    </string-array>
+</resources>

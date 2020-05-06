@@ -1,0 +1,68 @@
+
+q	java:S1166"\Rename this field "global_new_deaths" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı™Œ°
+o	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÅĞûÿÿÿÿ8âœÒˆ.
+p	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”µ¹Ÿúÿÿÿÿ8âœÒˆ.
+k	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒğ•ˆ8âœÒˆ.
+l	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïæë8âœÒˆ.
+j	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñÿ48âœÒˆ.
+o	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëã×øÿÿÿÿ8âœÒˆ.
+s	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½»íÙüÿÿÿÿ8âœÒˆ.
+v	java:S116B"aRename this field "daily_pcr_testing_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ûšñ
+p	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÂğøÿÿÿÿ8âœÒˆ.
+p	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÈœ’ùÿÿÿÿ8âœÒˆ.
+p	java:S100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ÷Úåùÿÿÿÿ8âœÒˆ.
+s	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ü™Éüÿÿÿÿ8âœÒˆ.
+l	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÌ¬g8˜Á© .
+p	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÃãèúÿÿÿÿ8âœÒˆ.
+i	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïæë8âœÒˆ.
+u	java:S116:"[Rename this field "global_recovered" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ùš­ûÿÿÿÿ
+l	java:S116"WRename this field "local_deaths" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¨ş¥
+n	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½³…æ8âœÒˆ.
+o	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÿùÿúÿÿÿÿ8âœÒˆ.
+p	java:S100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¡ÑÈıÿÿÿÿ8âœÒˆ.
+r	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÿùÿúÿÿÿÿ8âœÒˆ.
+s	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨À­Œşÿÿÿÿ8âœÒˆ.
+j	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ï@8âœÒˆ.
+i	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëåˆ8âœÒˆ.
+	java:S116"yRename this field "local_total_number_of_individuals_in_hospitals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ˆŞ¦
+p	java:S116*"[Rename this field "global_new_cases" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ÖÍ
+o	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿éíÿÿÿÿÿ8âœÒˆ.
+r	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëã×øÿÿÿÿ8âœÒˆ.
+i	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÌ¬g8Ôª .
+t	java:S116""ZRename this field "local_recovered" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( á¿ôúÿÿÿÿ
+p	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¶îÿÿÿÿÿ8âœÒˆ.
+s	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¡ÑÈıÿÿÿÿ8âœÒˆ.
+m	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“õìû8âœÒˆ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ğ¿˜8âœÒˆ.
+j	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ƒØ8âœÒˆ.
+p	java:S100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨À­Œşÿÿÿÿ8âœÒˆ.
+j	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÉÈ’8âœÒˆ.
+k	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½³…æ8âœÒˆ.
+£
+java:S1186H"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼‘ğŸşÿÿÿÿ8øİÑˆ.
+w	java:S116."]Rename this field "global_total_cases" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï˜ë­ÿÿÿÿÿ
+p	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ü™Éüÿÿÿÿ8âœÒˆ.
+o	java:S116"ZRename this field "local_new_cases" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Çš”
+w	java:S116>"bRename this field "total_pcr_testing_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—“
+m	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ƒØ8âœÒˆ.
+j	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â×«±8Îû© .
+p	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¸×˜üÿÿÿÿ8âœÒˆ.
+k	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§§Î€8âœÒˆ.
+n	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§§Î€8âœÒˆ.
+w	java:S116&"]Rename this field "local_active_cases" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»âĞ¤úÿÿÿÿ
+o	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¦€øÿÿÿÿ8âœÒˆ.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ğ¿˜8âœÒˆ.
+p	java:S116
+"[Rename this field "update_date_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ı²Ò
+p	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½»íÙüÿÿÿÿ8âœÒˆ.
+j	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ§ÊÎ8âœÒˆ.
+m	java:S1162"XRename this field "global_deaths" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‚Öô
+m	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÉÈ’8âœÒˆ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜È¬"8âœÒˆ.
+p	java:S116"[Rename this field "local_new_deaths" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê†»
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜È¬"8âœÒˆ.
+y	java:S116F"XRename this field "hospital_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¡ıêşÿÿÿÿ8àø¦†.
+m	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñÿ48âœÒˆ.
+j	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÿë©8âœÒˆ.
+x	java:S116"\Rename this field "local_total_cases" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Åô“8ğ·¨ .
+j	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“õìû8âœÒˆ.

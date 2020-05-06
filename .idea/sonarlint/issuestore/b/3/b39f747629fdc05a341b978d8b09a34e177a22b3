@@ -1,0 +1,14 @@
+
+X	java:S125E"<This block of commented-out lines of code should be removed.(—Ş¨²8Ù¦äÿ.
+]	java:S125/"<This block of commented-out lines of code should be removed.(©ñÕ›ùÿÿÿÿ8‚„ò.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(œ©ùÇùÿÿÿÿ8¾Øò.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8©Ï¶ğ.
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÑÕ—ñ.
+Q
+java:S3740("/Provide the parametrized type for this generic.(óÛšªûÿÿÿÿ8¾Øò.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8À÷—ö.
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8—³ ğ.

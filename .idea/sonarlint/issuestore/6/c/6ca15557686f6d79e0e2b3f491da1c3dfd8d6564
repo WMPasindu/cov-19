@@ -1,0 +1,6 @@
+
+S
+java:S1128"1Remove this unused import 'okhttp3.OkHttpClient'.(ì€’Àùÿÿÿÿ8ú½•‡.
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(Ô€¦Ïıÿÿÿÿ8Í·Ş†.

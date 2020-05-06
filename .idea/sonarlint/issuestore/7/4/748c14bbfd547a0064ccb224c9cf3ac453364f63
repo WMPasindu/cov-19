@@ -1,0 +1,13 @@
+
+Q
+java:S1481‘".Remove this unused "imageIcon" local variable.(œèáùÿÿÿÿ8²±Á®.
+_
+java:S1128!"BRemove this unused import 'cn.pedant.SweetAlert.SweetAlertDialog'.(õ”ØÁ8„”¾®.
+n
+java:S1192í"PDefine a constant instead of duplicating this literal "Active Cases : " 3 times.(ş¿§£8©¢¼¬.
+T
+java:S1874D"2Remove this use of "initialize"; it is deprecated.(Îôúæûÿÿÿÿ8üÅ®ª.
+£
+java:S1186F"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Èø©óùÿÿÿÿ8üÅ®ª.
+g
+java:S1192ì"IDefine a constant instead of duplicating this literal "Total : " 3 times.(ú¤ùÀ8’ïç¨.
